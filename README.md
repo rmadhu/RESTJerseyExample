@@ -1,6 +1,8 @@
 # RESTJerseyExample
 A simple example of Restful web services using Jersey
 
+Use Maven to manage dependencies
+
 Services: 
 Produces an XML
 Celcius to Fahrenheit conversion - /ctofservice - GET method
